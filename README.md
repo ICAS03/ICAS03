@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **flutter**
 
-- 📫 How to reach me **ivy.chung132003@gmail.com**
+- 📫 How to reach me **ivyshin03@gmail.com**
 
 - ⚡ Fun fact **I love learning and teaching at the same time**
 
