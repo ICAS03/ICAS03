@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [waterguard](https://github.com/ICAS03/waterguard)
 
-- 🌱 I’m currently learning **React and Node.JS**
+- 🌱 I’m currently learning **PHP Laravel**
 
 - 👨‍💻 My personal projects are available at [https://github.com/ICAS03/personal-portfolio](https://github.com/ICAS03/personal-portfolio)
 
