@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [agentic-web3](https://github.com/ICAS03/agentic-main)
 
-- 🌱 I’m currently learning **Web3 Development*
+- 🌱 I’m currently learning *Web3 Development*
 
 - 👨‍💻 My personal projects are available at [https://github.com/ICAS03/personal-portfolio](https://github.com/ICAS03/personal-portfolio)
 
