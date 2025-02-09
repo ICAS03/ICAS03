@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivy Chung</h1>
 <h3 align="center">I am strongly passionate and interested in learning new skills and technologies. I will always seek for new opportunities to learn.</h3>
 
-- 🔭 I’m currently working on [waterguard](https://github.com/ICAS03/waterguard)
+- 🔭 I’m currently working on [agentic-web3](https://github.com/ICAS03/agentic-main)
 
 - 🌱 I’m currently learning **PHP Laravel**
 
