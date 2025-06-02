@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Web3 Development*
 
-- 👨‍💻 My personal projects are available at [https://github.com/ICAS03/personal-portfolio](https://github.com/ICAS03/personal-portfolio)
+- 👨‍💻 My personal portfolio is available at [https://ivy-chung.netlify.app/](https://ivy-chung.netlify.app/)
 
 - 💬 Ask me about **flutter**
 
