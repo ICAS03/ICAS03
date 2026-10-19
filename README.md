@@ -7,7 +7,7 @@
 
 - 👨‍💻 My personal portfolio is available at [https://ivy-chung.netlify.app/](https://ivy-chung.netlify.app/)
 
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **AI-related stuff**
 
 - 📫 How to reach me **ivyshin03@gmail.com**
 
